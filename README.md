@@ -1,7 +1,7 @@
 # projeto-final
 Projeto Final Programação para Ambiente Móveis
 
-**instalar node
+*instalar node
 
 # comandos 
 	* npm init -y
